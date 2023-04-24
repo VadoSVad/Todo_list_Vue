@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Bruno';
+    src: url(fonts/Bruno_Ace_SC/BrunoAceSC-Regular.ttf);
+}
+
+body{
+    background: gray;
+}
+
+h1{
+    font-family: Bruno;
+    font-size: 50px;
+    text-align: center;
+}
+
+.form-control{
+    text-align: center;
+}
+
+.form-control>input{
+    border-radius: 10px;
+    width: 500px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Bruno;
+}
+
+.btn_get{
+    color: white;
+    background: grey;
+    font-size: 25px;
+    font-family: Bruno;
+    position: absolute;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 3px;
+    width: 75px;
+    height: 50px;
+}
+
+.list{
+    text-align: center;
+}
+
+ul {
+    color: white;
+    font-size: 25px;
+    font-family: Bruno;
+    list-style-type: none;
+}
+
+.danger{
+    color: white;
+    background: grey;
+    font-size: 20px;
+    font-family: Bruno;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 3px;
+    width: 150px;
+    height: 50px;
+}
+
+.no_notes{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    background: grey;
+    font-size: 20px;
+    font-family: Bruno;
+}
+
+hr{
+    margin: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
